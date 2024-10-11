@@ -1,27 +1,31 @@
-# Project Name: ListoGo
+# Project Name: STARTER-listogo-v1.0
+
 ================
 
 ## Overview
 ------------
 
-* Briefly describe the project and its purpose
+* Listogo is an innovative platform that aims to help users find and explore various locations, including restaurants, hotels, and real estate, using HTML, CSS, and JavaScript.
 
 ## Features
 ------------
 
-* List the key features of your project
+* Simple user interface: a user-friendly design helps visitors navigate.
+* Contact form: to receive feedback from users.
+* Detailed pages: displays details about each listing, such as ratings and prices.
 
 ## Getting Started
 -----------------
 
-* Provide instructions on how to get started with your project
+* Download the files from GitHub.
+* Open the index.html file in your web browser.
 
 ## Requirements
 -------------
 
-* List any dependencies or requirements needed to use your project
+* Internet browser
 
-## Installation
+## No need to install anything, just open the index.html file in a web browser.
 ------------
 
 * Provide instructions on how to install your project
@@ -29,25 +33,27 @@
 ## Usage
 -----
 
-* Provide examples of how to use your project
+* To search: use the search bar to find locations based on category and location.
+* Explore: Browse through different sections to learn more about available places.
 
 ## Contributing
 ------------
 
-* Provide guidelines on how to contribute to your project
+* Fork the repository.
 
 ## License
 -------
 
-* Specify the license under which your project is released
+* This project is licensed
 
 ## Authors
 -------
 
-* List the authors of your project
+* Foullane Mohamed
 
 ## Acknowledgments
 --------------
 
-* Acknowledge any third-party libraries or resources used in your project
+* Thanks to my teacher and everyone who contributed to the preparation of this project
+
 -----------------------
